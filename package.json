@@ -9,9 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "@brightlayer-ui/highcharts": "^2.1.0",
+    "antd": "^4.23.6",
+    "chart.js": "^4.0.1",
     "next": "13.0.0",
+    "plotly.js-dist": "^2.16.2",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-chartjs-2": "^5.0.1",
+    "react-dom": "18.2.0",
+    "react-highcharts": "^16.1.0",
+    "react-plot": "^0.20.4",
+    "react-plotly.js": "^2.6.0",
+    "recharts": "^2.1.16"
   },
   "devDependencies": {
     "eslint": "8.26.0",
